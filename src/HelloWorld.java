@@ -7,7 +7,6 @@ public class HelloWorld {
                 "i\n" +
                 "commitowania");
 
-
        /*
        I can do this this way also
        System.out.println("Uczę");
